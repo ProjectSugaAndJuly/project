@@ -1,0 +1,11 @@
+*{
+  direction: rtl;
+}
+a{
+  margin: 5px;
+}
+::selection{
+  text-shadow: none;
+  background: rgb(65, 25, 38);
+  color:white;
+}

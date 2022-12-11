@@ -1,0 +1,20 @@
+span{
+    color: mediumvioletred;
+}
+#tztz{
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: -500px;
+    top: 130px;
+}
+#divv{
+    position: relative;
+    top: -250px;
+}
+#ButtonBase{
+     font-size: 30px;
+     color:mediumvioletred ;
+     border: solid;
+     border-radius: 2rem;
+}

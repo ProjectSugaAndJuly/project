@@ -1,0 +1,25 @@
+header{
+    font-family: Onyx;
+    font-size:90px;
+    /* height: 60px; */
+    margin: 2px;
+}
+nav{
+    height: 60px;
+    /* text-align: right; */
+}
+/* dl{
+    text-align: left;
+} */
+.dropdown-toggle a:hover{background-color: aliceblue;}
+.d-flex{
+    text-align: center;
+}
+
+.dropdown:hover .dropdown-menu {
+    display:flex !important;
+    margin-top: 0; 
+ }
+
+
+    

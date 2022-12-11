@@ -1,0 +1,79 @@
+h1 {
+    color: rgb(228, 0, 178);
+}
+
+.addrecipe {
+    /* display:flex; */
+    display: inline-block;
+    /* text-align: right; */
+    position: relative;
+    right: -600px;
+
+}
+
+input {
+    height: 50px;
+    width: 280px;
+    margin: 5px;
+    padding: 8px;
+    border: solid;
+    border-color: black;
+    border-width:3px;
+}
+
+#imageAdd {
+
+    text-align: center;
+    position: relative;
+    top:-240px;
+    display: inline-block;
+    border: solid;
+    
+}
+
+#videoAdd {
+
+    text-align: center;
+    position: relative;
+    top:-495px;
+    right: 400px;
+    display: inline-block;
+    border: solid;
+    
+}
+#plus{
+    height: 150px;
+    width: 150px; 
+    color: rgba(0, 0, 0, 0.653);
+    position: relative;
+    right: -54px;
+
+}
+#table{
+    text-align: center;
+    display: inline-block;
+    width: 1000px;
+    position: relative;
+    right: -360px;
+    border: solid;
+    border-color: black;
+    border-width:2px;
+}
+#row{
+    text-align: right;
+    border-bottom: 3px solid black ;
+    /* border-color: black; */
+    /* border-width:2px; */
+}
+h5{
+    text-align: right;
+}
+#ofen_hachana{
+    width:500px;
+}
+#hichul1{
+    width: 500px;
+    position: relative;
+    top:650px;
+    left: 100px;
+}

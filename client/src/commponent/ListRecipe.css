@@ -1,0 +1,13 @@
+*{
+    text-align: center;  
+}
+.card{
+    background-color:rgba(245, 231, 231, 0.959);
+    border-radius: 10%;
+    padding: 5%;
+    max-width: 50%;
+    /* overflow:scroll; */
+    margin: auto;
+    /* margin-bottom: 15px; */
+    /* height: GridNoRowsOverlay; */
+}

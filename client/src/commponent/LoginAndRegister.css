@@ -1,0 +1,22 @@
+form{
+    display:flex;
+    flex-direction: column;
+    padding:5%;
+    margin: auto;
+    width: 30%;
+}
+input{
+    margin: 1%;
+    padding: 3%;
+    border-radius: 5px;
+}
+#loginAndRegister{
+    display:flex !important;
+    /* text-align: center;
+    margin: 5px;
+    padding: 5px; */
+}
+#Login{
+    text-align: center;
+
+}

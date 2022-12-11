@@ -1,0 +1,49 @@
+/* h1{
+    color: rgb(231, 25, 25);
+} */
+#card {
+    background-color:white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* background-color: rgb(215, 186, 186); */
+    margin: 15px;
+    padding: 7px;
+    height: 400px;
+    width: 1521px;
+    direction: rtl;
+    /* color: white; */
+}
+
+#immg {
+    margin: 7px;
+    padding: 7px;
+    height: 370px;
+    width: 600px;
+    position: relative;
+    left: 450px;
+}
+
+#card_text {
+    direction: rtl;
+    position: relative;
+    left: -600px;
+    width: 800px;
+    height: 200px;
+    top: -380px;
+}
+#card_text1 {
+    direction: rtl;
+    position: relative;
+    left: -90px;
+    width: 800px;
+    height: 200px;
+    top: -1px;
+}
+#immg1 {
+    margin: 7px;
+    padding: 7px;
+    height: 370px;
+    width: 600px;
+    position: relative;
+    left: -442px;
+    top:-200px
+}
